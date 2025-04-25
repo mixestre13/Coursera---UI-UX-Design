@@ -1,0 +1,2 @@
+I'm interested in learning UI/UX design through a design-focused approach that emphasizes visual communication rather than just marketing or programming. I want to gain hands-on, practical skills that cover the entire UI/UX development process—from user research and defining a project’s strategy and scope, to building information architecture, sitemaps, and wireframes. I also want to understand current best practices in UX design and apply them to create engaging, user-friendly experiences for websites and apps.
+
